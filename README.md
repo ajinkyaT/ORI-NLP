@@ -4,7 +4,7 @@ Using NLP for sentiment analysis
 
 ## Code
 
-Open [senti.py](../blob/master/senti.py)
+Open [senti.py](../master/senti.py)
 
 ## Code implementation
 
